@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mask</folder>
+	<filename>with_mask_3186.jpg</filename>
+	<path>E:\DataScience\Tensorflow_Object_detection\RealTimeObjectDetection\Tensorflow\workspace\images\data\Mask\with_mask_3186.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>658</xmin>
+			<ymin>774</ymin>
+			<xmax>1477</xmax>
+			<ymax>1519</ymax>
+		</bndbox>
+	</object>
+</annotation>

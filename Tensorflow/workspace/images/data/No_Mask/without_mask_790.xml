@@ -1,0 +1,26 @@
+<annotation>
+	<folder>No_Mask</folder>
+	<filename>without_mask_790.jpg</filename>
+	<path>E:\DataScience\Tensorflow_Object_detection\RealTimeObjectDetection\Tensorflow\workspace\images\data\No_Mask\without_mask_790.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>189</width>
+		<height>267</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No-Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>108</ymin>
+			<xmax>148</xmax>
+			<ymax>190</ymax>
+		</bndbox>
+	</object>
+</annotation>
